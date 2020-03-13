@@ -1,0 +1,4 @@
+Android Jetpack
+O Jetpack é um conjunto de bibliotecas, ferramentas e orientações para ajudar os desenvolvedores a criar apps de alta qualidade com mais facilidade. Esses componentes ajudam você a seguir as práticas recomendadas, acabando com os códigos de texto clichê e simplificando tarefas complexas, para que você possa se concentrar na parte do código do seu interesse.
+
+O Jetpack compõe as bibliotecas de pacotes androidx.*, separadas das APIs da plataforma. Isso significa que ele oferece compatibilidade com versões anteriores e é atualizado com mais frequência que a Plataforma Android, garantindo que você sempre tenha acesso às versões melhores e mais recentes dos componentes do Jetpack.
